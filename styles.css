@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+#loading {
+  display: none;
+  font-weight: bold;
+  color: blue;
+  margin: 10px 0;
+}
+
+#error {
+  color: red;
+  margin: 10px 0;
+}
+
+#output img {
+  margin: 5px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
